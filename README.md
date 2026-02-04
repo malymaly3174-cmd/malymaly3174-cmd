@@ -21,8 +21,6 @@
 
 Cyber Security Engineer with hands-on expertise in network infrastructure security and identifying critical web application vulnerabilities. Specialized in Penetration Testing and Vulnerability Assessment using industry-standard tools such as Burp Suite and Metasploit.
 
-Aspiring Network Engineer with a strong interest in network simulation and security, experienced in using Cisco Packet Tracer for network simulations and FortiGate/FortiManager for firewall management. Passionate about programming and applying it to real-world networking and security challenges.
-
 - 🎯 Cyber Security Engineer with practical experience in penetration testing, vulnerability assessment, and bug bounty programs, focusing on responsible disclosure and proactive defense against emerging threats.
 - 🛡️ Strong background in network security solutions, including configuring Firewalls, IDS/IPS, VPNs, and secure communication protocols.
 - 🌐 Aspiring Network Engineer with hands-on experience in network simulation using Cisco Packet Tracer and firewall management with FortiGate/FortiManager.
@@ -56,13 +54,4 @@ Aspiring Network Engineer with a strong interest in network simulation and secur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="kalilinux logo" title="Kalilinux" />
-</div>
-
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/malymaly3174/malymaly3174/output/snake-dark.svg" alt="Snake animation" />
 </div>
