@@ -18,13 +18,20 @@
 ## 👋 About Me
 
 <div align="left">
-  
-  Aspiring Network Engineer with a strong interest in network simulation and security. Experienced with Cisco Packet Tracer for network simulations and FortiGate/FortiManager for firewall management. Passionate about programming with proficiency in C#, Python, Java, and SQL. Worked on multiple networking projects, demonstrating a solid foundation in network technologies.
-  
-- 🎯 Aspiring Network Engineer with hands-on experience in network simulation using Cisco Packet Tracer and firewall management with FortiGate/FortiManager.
-- 💼 Proficient in programming with C#, Python, Java, and SQL, applying these skills to develop solutions for networking projects.
-- 🚀 Demonstrated a solid foundation in network technologies through multiple projects, blending programming expertise with network security and simulation.
-  - 📫 Reach me at: malymaly3174@gmail.com
+
+Cyber Security Engineer with hands-on expertise in network infrastructure security and identifying critical web application vulnerabilities. Specialized in Penetration Testing and Vulnerability Assessment using industry-standard tools such as Burp Suite and Metasploit.
+
+Aspiring Network Engineer with a strong interest in network simulation and security, experienced in using Cisco Packet Tracer for network simulations and FortiGate/FortiManager for firewall management. Passionate about programming and applying it to real-world networking and security challenges.
+
+- 🎯 Cyber Security Engineer with practical experience in penetration testing, vulnerability assessment, and bug bounty programs, focusing on responsible disclosure and proactive defense against emerging threats.
+- 🛡️ Strong background in network security solutions, including configuring Firewalls, IDS/IPS, VPNs, and secure communication protocols.
+- 🌐 Aspiring Network Engineer with hands-on experience in network simulation using Cisco Packet Tracer and firewall management with FortiGate/FortiManager.
+- 💼 Proficient in programming with C#, Python, Java, and SQL, applying these skills to develop and enhance networking and security projects.
+- 🚀 Built a solid foundation in network technologies through multiple projects, combining programming, network simulation, and cybersecurity.
+- 📫 Reach me at: **malymaly3174@gmail.com**
+
+</div>
+
 
 </div>
 
